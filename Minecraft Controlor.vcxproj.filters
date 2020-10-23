@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\BGM">
+      <UniqueIdentifier>{1e64f0da-4ae3-4bcc-84bd-9da891308b23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\ICON">
+      <UniqueIdentifier>{038699df-a551-456b-89ab-115bdcae040d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\CFG">
+      <UniqueIdentifier>{23797fab-a286-4118-b8d3-00e85b582578}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Minecraft Controlor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Minecraft Controlor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Minecraft Controlor.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ICON\Minecraft Controlor.ico">
+      <Filter>资源文件\ICON</Filter>
+    </Image>
+    <Image Include="ICON\small.ico">
+      <Filter>资源文件\ICON</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BGM\AGAiN - FairStars MP3 Recorder kg.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\AiR - eLicenser Emulato installer.it">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\BetaMaster - Alcohol 120% activator.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\BRD - Teleport Pro kg.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\CORE - Steganos Internet Anonyme_2.XM">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\CORE - Anfibia Deskman 8.1.1 kg.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\DYNAMITE - Winamp 5.0RC8 crk.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\CORE - Anthemion Jutoh 1.26 MacOSX kg.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\AiR - Nomad Factory All Products kg.it">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\hybrid song remix.ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\I SAY YES(wedding version) (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\Lilac - MANYO (まにょっ) (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\megamix.ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\My Dearest (Instrumental) - supercell (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\PARADOX - Photoshop CS 2 kg.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\R2R - Image-Line kg v1.0.1.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\SKiD ROW - Portal 2 launcher.xm">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\潮鳴り (潮鸣) - Key Sounds Label (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\打上花火 (Uchiage Hanabi) -オルゴールファクトリー (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\君をのせて (伴随着你) (Music Box Version) - 久石让 (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\栄の活躍 (荣的活跃) - 松本晃彦 (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\君をのせて (伴随着你) (カラオケ) - 井上杏美 (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\青春ブタ野郎 - fox capture plan (V0).ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="CFG\HOTKEY.cfg">
+      <Filter>资源文件\CFG</Filter>
+    </None>
+    <None Include="CFG\Minecraft Controlor.cfg">
+      <Filter>资源文件\CFG</Filter>
+    </None>
+    <None Include="BGM\BetaMaster - Alcohol 120% 1.9.5.3105 crk.ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\CORE - Steganos Internet Anonyme_2.ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\ダダダダ天使 - ナナヲアカリ.ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+    <None Include="BGM\どりーみんチュチュ (Dreamin%27 Chuchu) - 巡音ルカ.ogg">
+      <Filter>资源文件\BGM</Filter>
+    </None>
+  </ItemGroup>
+</Project>
