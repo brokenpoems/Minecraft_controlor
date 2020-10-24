@@ -1,0 +1,7 @@
+*.sln linguist-language=C++
+*.rc linguist-language=C++
+*.vcxproj linguist-language=C++
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.cfg linguist-language=Text
+*.hpp linguist-language=C++
