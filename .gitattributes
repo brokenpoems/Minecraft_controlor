@@ -3,5 +3,5 @@
 *.vcxproj linguist-language=C++
 *.cpp linguist-language=C++
 *.h linguist-language=C++
-*.cfg linguist-language=Text
+*.cfg linguist-language=C++
 *.hpp linguist-language=C++
